@@ -1,6 +1,13 @@
 # Signup Form React Component
 
+
+
 This is a React component for a signup form that allows users to input their information and submit it for registration. The form includes fields for basic user details such as first name, last name, username, email address, password, phone number, country, city, PAN number, and Aadhar number.
+
+![Signup Form](https://github.com/shubhaygautam/ReactJS/assets/111029251/5d3ac99f-42ec-4143-af25-2e0564ca8ee0)
+![Signed In](https://github.com/shubhaygautam/ReactJS/assets/111029251/bd43ef92-4a76-4551-a51a-c5b1def7ce34)
+
+
 
 ## Features
 
