@@ -23,8 +23,8 @@ A simple, sleek, and efficient TodoList application built with React. This app a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/todolist-app-react-js.git
-   cd todolist-app-react-js
+   git clone https://github.com/shubhaygautam/ReactJS/Week2
+   cd ReactJS/Week2
    
 2. **Install dependencies:**
     ```bash
