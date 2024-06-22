@@ -1,8 +1,10 @@
-![image](https://github.com/shubhaygautam/ReactJS/assets/111029251/71ee3d04-4758-40ef-b663-b10e51b4dabe)
+
 
 # React Admin Dashboard
 
 Welcome to the **React Admin Dashboard**! This project is a feature-rich, highly customizable admin dashboard built with React. It includes themes, interactive tables, charts, a calendar, and a Kanban board, designed to provide a smooth and seamless user experience.
+
+![image](https://github.com/shubhaygautam/ReactJS/assets/111029251/71ee3d04-4758-40ef-b663-b10e51b4dabe)
 
 ## Features
 
@@ -36,5 +38,5 @@ Follow these steps to set up the project locally.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/react-admin-dashboard.git
-cd react-admin-dashboard
+git clone https://github.com/shubhaygautam/React/Week3.git
+
